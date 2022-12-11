@@ -4,4 +4,4 @@
 
 
 
-![Patika Profilim](https://app.patika.dev/staticFiles/newPatikaLogo.svg)
+![https://app.patika.dev/slev](https://app.patika.dev/staticFiles/newPatikaLogo.svg)
